@@ -1,10 +1,10 @@
 {
-    "site_name": "小天天博客",
-    "copyright": "wawasoft 2012",
+    "site_name": "raowf",
+    "copyright": "raowf 2014",
     "cates": [
-        {"name": "tech", "text":"技术"},
-        {"name": "art", "text":"艺术"},
-        {"name": "other", "text":"其它"}
+        {"name": "tech", "text":"book"},
+        {"name": "art", "text":"book2"},
+        {"name": "other", "text":"book3"}
     ],
     "articles":[
         {"title": "tech hello world", "file": "2012-01-23", "cate":"tech"},
