@@ -1,0 +1,3 @@
+Underscore的正确用法
+  underscore.js,包含了许多基本功能的js函数库，主要涉及了Collection, object,Array, Function的操作
+ 

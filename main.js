@@ -35,7 +35,8 @@ $(function () {
             return article.file.substring(0, 7);
         });
         result.months = _.map(result.months, function (value, key) {
-            return {month: key,
+            return {
+                month: key,
                 articles: _.map(value, function (article) {
                     return {link: article.file, text: article.title}
                 })
